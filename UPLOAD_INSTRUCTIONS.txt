@@ -1,0 +1,61 @@
+# 📤 GitHub Upload Instructions for Mykasia Simpkins
+# Step-by-step guide to publish your profile & project
+
+=============================================================
+STEP 1: SET UP YOUR PROFILE README
+=============================================================
+
+1. Go to: https://github.com/new
+2. Create a NEW repository named EXACTLY: simpkinsmykasia70-cell
+   (Must match your username exactly — this is a special GitHub profile repo)
+3. Check "Add a README file"
+4. Click "Create repository"
+5. Click the pencil ✏️ icon to edit README.md
+6. DELETE everything and PASTE the contents of: profile_readme/README.md
+7. Click "Commit changes"
+
+✅ Your profile page will now show at:
+   https://github.com/simpkinsmykasia70-cell
+
+=============================================================
+STEP 2: CREATE THE NPC MIND ENGINE PROJECT REPO
+=============================================================
+
+1. Go to: https://github.com/new
+2. Name the repo: npc-mind-engine
+3. Set to PUBLIC
+4. Check "Add a README file"
+5. Click "Create repository"
+
+Then upload files:
+6. Click "Add file" → "Upload files"
+7. Upload ALL files from the godot_project/ folder:
+   - README.md
+   - scripts/npc_controller.gd
+   - scripts/state_machine.gd
+   - scripts/utility_scorer.gd
+   - scripts/vision_component.gd
+8. Write commit message: "Initial commit - NPC Mind Engine v1.0"
+9. Click "Commit changes"
+
+✅ Your project will be live at:
+   https://github.com/simpkinsmykasia70-cell/npc-mind-engine
+
+=============================================================
+STEP 3: PIN THE REPO TO YOUR PROFILE
+=============================================================
+
+1. Go to: https://github.com/simpkinsmykasia70-cell
+2. Click "Customize your pins"
+3. Check "npc-mind-engine"
+4. Save
+
+✅ The project will now appear prominently on your profile!
+
+=============================================================
+PORTFOLIO LINK TO SUBMIT IN THE FORM:
+=============================================================
+
+https://github.com/simpkinsmykasia70-cell
+
+=============================================================
